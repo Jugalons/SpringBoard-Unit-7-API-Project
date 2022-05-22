@@ -1,0 +1,2 @@
+# Ignore file that has our private API key
+.env
